@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# # Youtube Clone With React and RapidAPI
+
+React JS application consisting of stunning video sections, custom categories, channel pages, and, most importantly, you can play videos straight from the App!
+
+
+## Screenshots
+
+![App Screenshot](youtube_clone.png)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
