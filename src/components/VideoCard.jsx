@@ -13,7 +13,7 @@ const VideoCard = ({video: { id : { videoId } , snippet }}) => {
 			sx={{
 				width: { xs: "100%", sm: "350px", md: "305px" },
 				boxShadow: "none",
-				borderRadius: 0,
+				borderRadius:10,
 			}}
 			className=""
 		>
@@ -24,6 +24,7 @@ const VideoCard = ({video: { id : { videoId } , snippet }}) => {
 					sx={{
 						width: { xs: "100%", sm: "350px", md: "320px" },
 						height: 180,
+			
 					}}
 				/>
 			</Link>
